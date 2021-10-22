@@ -23,5 +23,10 @@
 ![snapshot12](https://user-images.githubusercontent.com/85022169/138390147-b923922f-0b72-4aa3-92dc-1869404b4bf4.PNG)
 #### Chinese charactoers
 1. This table contains Chinese characters.
-2. If scrambles are showing, install Chinese fonts, and do the following. 
-3. to be continued...
+2. In case scrambles are showing, make sure Chinese fonts are installed.
+3. Follow the steps below. 
+![snapshot13](https://user-images.githubusercontent.com/85022169/138409630-e3e810ed-9e46-411f-b8a3-e8e1197aa972.PNG)
+![snapshot14](https://user-images.githubusercontent.com/85022169/138409642-0923657a-af32-4026-9e86-599640bdfa62.PNG)
+![snapshot15](https://user-images.githubusercontent.com/85022169/138409649-d2760551-0491-49ea-9d88-7a6ba9d9c9aa.PNG)
+![snapshot16](https://user-images.githubusercontent.com/85022169/138409659-2ed6e61f-2c96-4d38-9b84-df596f2b4a19.PNG)
+![snapshot18](https://user-images.githubusercontent.com/85022169/138409663-8ac0553e-95a1-4681-81f0-fe21de9fafb1.PNG)
