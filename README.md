@@ -31,8 +31,9 @@
 ![snapshot16](https://user-images.githubusercontent.com/85022169/138409659-2ed6e61f-2c96-4d38-9b84-df596f2b4a19.PNG)
 ![snapshot18](https://user-images.githubusercontent.com/85022169/138409663-8ac0553e-95a1-4681-81f0-fe21de9fafb1.PNG)
 #### Download
-1. VBA_excel.xlsa, download directly
-2. macro_e.vb, click on the file
+1. VBA_excel.xlsa, click on the file above, then click download directly
+![snapshot21](https://user-images.githubusercontent.com/85022169/138413835-b5d78235-1e8b-46a1-a785-95999a22dc66.PNG)
+2. macro_e.vb, click on the file above, then
 ![snapshot19](https://user-images.githubusercontent.com/85022169/138413346-dacf22f6-d06c-4aba-bf3f-a1440e6dcb4c.PNG)
-3. sample_product.csv, click on the file
-4. ![snapshot20](https://user-images.githubusercontent.com/85022169/138413368-8a001633-70cd-4514-adcb-b507ca4bcc28.PNG)
+3. sample_product.csv, click on the file above, then
+![snapshot20](https://user-images.githubusercontent.com/85022169/138413368-8a001633-70cd-4514-adcb-b507ca4bcc28.PNG)
